@@ -23,7 +23,7 @@
    npm install
    ```
 2. **Start the development server:**
-   ```bash
+   ```txt
    npm run dev
    ```
 3. **Open in browser:**
