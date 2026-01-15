@@ -1,0 +1,9 @@
+- [x] Project requirements clarified: React + TypeScript chess game with funny, randomized animations per piece.
+- [x] Project scaffolded using Vite (React + TS).
+- [x] Custom folders and files created for assets, components, animations, and utils.
+- [x] Framer Motion installed for animations.
+- [x] Basic chess logic and randomizer utility implemented.
+- [x] Main components (ChessBoard, Piece, AnimationSelector) coded.
+- [x] README.md updated with instructions and structure.
+- [ ] Compile and run project to verify setup.
+- [ ] Document any further steps or issues.
