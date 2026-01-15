@@ -55,3 +55,19 @@
 
 ---
 Made with ❤️ by bored devs
+
+## Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Catalano-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/eric-catalano/)
+
+<a href="https://www.linkedin.com/in/eric-catalano/">
+<pre>
+███████╗██████╗ ██╗ ██████╗
+╚══███╔╝██╔══██╗██║██╔════╝
+  ███╔╝ ██████╔╝██║██║     
+ ███╔╝  ██╔══██╗██║██║     
+███████╗██║  ██║██║╚██████╗
+╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝
+</pre>
+</a>
+
+[Click here to connect with Eric Catalano on LinkedIn!](https://www.linkedin.com/in/eric-catalano/)
