@@ -1,4 +1,3 @@
-// Placeholder: Replace with actual animation logic/assets
 export const rookAnimations = [
   'rook-anim-1',
   'rook-anim-2',

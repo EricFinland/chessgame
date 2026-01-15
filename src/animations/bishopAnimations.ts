@@ -1,4 +1,3 @@
-// Placeholder: Replace with actual animation logic/assets
 export const bishopAnimations = [
   'bishop-anim-1',
   'bishop-anim-2',

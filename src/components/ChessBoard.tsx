@@ -10,7 +10,6 @@ export const ChessBoard: React.FC = () => {
   const [animatingSquares, setAnimatingSquares] = useState<{row: number, col: number}[]>([]);
   const [validMoves, setValidMoves] = useState<{row: number, col: number}[]>([]);
 
-  // Basic move validation (pawn, knight, bishop, rook, queen, king)
   function getValidMoves(row: number, col: number, piece: Piece, board: Board): {row: number, col: number}[] {
     const moves: {row: number, col: number}[] = [];
     const directions: Record<PieceType, number[][]> = {
@@ -97,7 +96,6 @@ export const ChessBoard: React.FC = () => {
     }
   }
 
-  // Simple bot: picks a random valid move for black
   function botMove(board: Board) {
     // Find all black pieces and their moves
     const moves: {from: {row:number,col:number}, to: {row:number,col:number}}[] = [];

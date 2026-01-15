@@ -1,4 +1,3 @@
-// Basic chess logic (simplified)
 export type PieceType = 'pawn' | 'knight' | 'bishop' | 'rook' | 'queen' | 'king';
 export type Color = 'white' | 'black';
 export interface Piece {
@@ -8,8 +7,6 @@ export interface Piece {
 export type Board = (Piece | null)[][];
 
 export function getInitialBoard(): Board {
-  // Returns a standard chess starting position
-  // ...existing code...
   return [
     [
       { type: 'rook', color: 'black' },
@@ -36,4 +33,3 @@ export function getInitialBoard(): Board {
     ]
   ];
 }
-// Add move validation and other logic as needed

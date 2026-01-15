@@ -1,4 +1,3 @@
-// Placeholder: Replace with actual animation logic/assets
 export const knightAnimations = [
   'knight-anim-1',
   'knight-anim-2',

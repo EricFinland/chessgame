@@ -1,5 +1,3 @@
-// This component is a placeholder for future animation asset selection
-// For now, it just displays the animation name
 import React from 'react';
 
 export const AnimationSelector: React.FC<{ animation: string }> = ({ animation }) => {

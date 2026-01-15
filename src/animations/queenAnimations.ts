@@ -1,4 +1,3 @@
-// Placeholder: Replace with actual animation logic/assets
 export const queenAnimations = [
   'queen-anim-1',
   'queen-anim-2',

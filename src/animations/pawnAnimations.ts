@@ -1,4 +1,3 @@
-// Placeholder: Replace with actual animation logic/assets
 export const pawnAnimations = [
   'pawn-anim-1',
   'pawn-anim-2',
