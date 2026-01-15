@@ -13,11 +13,9 @@
 > **idk got bored and created chess less goo**
 
 ## 🎉 Features
-- Play chess against a simple bot
-- Every piece move triggers a random, funny animation
-- Classic chessboard colors
-- Modern, clean UI
-- No backend required
+- Play chess against a simple bot (it is really bad, it just like calculates legal moves and randomly selects one move, yeah so props if u can actually lose)
+- Every piece move triggers a random animation
+- good UI I guess
 
 ## 🚀 Getting Started
 1. **Install dependencies:**
@@ -29,7 +27,9 @@
    npm run dev
    ```
 3. **Open in browser:**
-   [http://localhost:5173](http://localhost:5173)
+   ```bash
+   Use whatever the link is spit in terminal
+   ```
 
 ## 🗂️ File Structure
 - `public/assets/pieces/` — Animation assets (future)
@@ -51,12 +51,12 @@
 
 ## 💡 Notes
 - All animations are currently text-based. Replace with real assets for full effect.
-- Have fun and enjoy the chaos!
+- Have fun, but be real no ones ever gonna see this or download this (dead internet theory)
 
 ---
-Made with ❤️ by bored devs
+Made by Eric Catalano
 
-## Connect with me!
+## Connect with me lol get my linkedin up!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Catalano-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/eric-catalano/)
 
 <a href="https://www.linkedin.com/in/eric-catalano/">
