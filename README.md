@@ -70,4 +70,4 @@ Made with ❤️ by bored devs
 </pre>
 </a>
 
-[Click here to connect with Eric Catalano on LinkedIn!](https://www.linkedin.com/in/eric-catalano/)
+[plez connect with me and send me a msg or sum im rlly bored ngl I code stuff ig yeah.... why are u even here like who reads my github stuff](https://www.linkedin.com/in/eric-catalano/)
