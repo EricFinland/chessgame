@@ -28,7 +28,7 @@
    ```
 3. **Open in browser:**
    ```bash
-   Use whatever the link is spit in terminal
+   Use whatever the link given from terminal
    ```
 
 ## 🗂️ File Structure
