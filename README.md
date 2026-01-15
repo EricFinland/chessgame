@@ -37,7 +37,7 @@
 - `src/animations/` — Animation lists per piece
 - `src/utils/` — Chess logic and randomizer
 
-## 🖼️ Preview
+## CHESS CHESS CHESS !!!
 ```
   ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
   ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
